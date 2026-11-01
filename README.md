@@ -25,4 +25,4 @@ I work remotely from Karachi with Australian enterprise clients, mostly in highe
 
 **Find me**
 
-[Portfolio](https://faisal8143.github.io) · [LinkedIn](https://www.linkedin.com/in/faisalirfan-sfmc/)
+[Portfolio](https://faisal8143.github.io) · [LinkedIn](https://www.linkedin.com/in/faisalirfan-sfmc/) · faisalawan848@gmail.com
