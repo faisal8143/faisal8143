@@ -1,14 +1,21 @@
 ### Hi, I'm Faisal 👋
 
-**Senior Salesforce Marketing Cloud Developer** · 8+ years building email, journeys and landing pages for enterprise brands.
+**Senior Salesforce Marketing Cloud & MC Next Developer** · 8+ years building email, journeys and landing pages for enterprise brands.
 
-I work remotely from Karachi with Australian enterprise clients, mostly in higher education, healthcare and tech.
+I work remotely from Karachi with Australian enterprise clients, mostly in higher education, healthcare and tech. **Open to freelance projects, white-label agency work and full-time roles.**
 
 **What I work with**
 
 - **Marketing Cloud:** Journey Builder, Automation Studio, Email Studio, Content Builder, CloudPages, Marketing Cloud Next
-- **Languages:** AMPscript, SSJS, SQL, HTML/CSS (responsive email), JavaScript
+- **Languages:** AMPscript, SSJS, SQL, HTML/CSS (responsive email), JavaScript, Liquid
 - **Account Engagement (Pardot):** forms, landing pages, Engagement Studio, Handlebars
+- **Other platforms:** Braze, Marketo, Klaviyo, Mailchimp
+
+**What I help with**
+
+- **MC Next readiness audits:** AMPscript, SSJS, LookupRows and CloudPages inventory, risk report and migration roadmap
+- **White-label build support** for Salesforce and email agencies
+- **AI-ready template systems:** AI-assisted builds, hand-tested before they reach your org
 
 **Open-source projects**
 
@@ -18,4 +25,4 @@ I work remotely from Karachi with Australian enterprise clients, mostly in highe
 
 **Find me**
 
-[LinkedIn](https://www.linkedin.com/in/faisalirfan-sfmc/)
+[Portfolio](https://faisal8143.github.io) · [LinkedIn](https://www.linkedin.com/in/faisalirfan-sfmc/)
